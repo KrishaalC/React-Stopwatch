@@ -1,7 +1,7 @@
 # React-Stopwatch
 Stopwatch implemented in react javascript framework
 
-Installisation 
+Installation 
 
 1. Clone repoistory onto your local machine 
 2. Download and install node.js
