@@ -8,7 +8,7 @@ Installation
 3. Navigate into project directory 
 4. Run npm-install to generate required node_modules folder 
 5. Run npm-start to launch application
-///
+
 
 Deployed at:  https://krishaalc.github.io/react-stopwatch-deploy/
 
